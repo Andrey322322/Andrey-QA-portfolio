@@ -1,7 +1,7 @@
 # README.md
 important to read
 # Андрей Шорников
-### Junior QA Engineer / Automation (Python)
+### Junior QA Engineer
 >## Контакты
 email: a.shornikov2@yandex.ru
 Телефон: +79674859736
